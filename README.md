@@ -1,5 +1,9 @@
-         x ftp 
-        ftp Brute attacktool 
+===========================================================
+
+==========>>> x ftp #ftp Brute attack tool#  <<<==========
+
+===========================================================
+
  Usage: python2 xftp.py [options]
 
 Options: -t, --target    <hostname/ip>   |   Target
