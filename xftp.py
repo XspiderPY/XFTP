@@ -15,7 +15,7 @@ Options: -t, --target    <hostname/ip>   |   Target\n
          -w, --wordlist  <filename>      |   the path of Wordlist\n
          -h, --help      <help>          |   print help\n
 
-Example: ./ftp_brute_forcer.py -t 127.0.0.1 -u root -w /root/Desktop/wordlist.txt
+Example: .python2 ftp_brute_forcer.py -t 127.0.0.1 -u root -w /root/Desktop/wordlist.txt
 '''
 
 
